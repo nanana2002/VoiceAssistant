@@ -1,2 +1,1 @@
-# VoiceAssistant
-基于华为云的语音助手
+# 华为AI课创新作业
